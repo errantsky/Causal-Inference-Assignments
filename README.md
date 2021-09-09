@@ -1,6 +1,8 @@
 # Causal-Inference-Assignments
 
-This repo includes my homework assignments for a graduate [Causal Inference](http://sina.sharif.ir/~saleh/CI.pdf) course I took during my B.Sc. All codes are in Python.
+This repo includes my homework assignments for a graduate [Causal Inference](http://sina.sharif.ir/~saleh/CI.pdf) course I took during my B.Sc. at Sharif University of Technology. This course was instructed by Dr. Saber Salehkaleybar at the Department of Electrical Engineering.
+
+All codes are in Python.
 
 Homework 1: Implements the paper ["Nonlinear causal discovery with additive noise models"](https://dl.acm.org/doi/10.5555/2981780.2981866) by Hoyer et al.
 
