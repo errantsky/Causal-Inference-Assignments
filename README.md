@@ -10,4 +10,4 @@ Homework 2: Implements the PC algorithm based on ["Estimating High-Dimensional D
 
 Homework 3: Looks into ["Counting and Exploring Sizes of Markov Equivalence Classes of Directed Acyclic Graphs"](https://jmlr.csail.mit.edu/papers/volume16/he15a/he15a.pdf) by He et al.
 
-
+Homework 4: A presentation on using Causal Inference in Algorithmic Fairness
